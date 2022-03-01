@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thibauttaglialatela&label=Profile%20views&color=0e75b6&style=flat" alt="thibauttaglialatela" /> </p>
 
-- 🌱 I’m currently learning **Symfony, PHP, SQL, Javascript, HTML/CSS, Bootstrap**
+- 🌱 I’m a web developper with skills in  **Symfony, PHP, SQL, Javascript, HTML/CSS, Bootstrap**
 
 - 📫 How to reach me **thibauttaglialatela@gmail.com**
 

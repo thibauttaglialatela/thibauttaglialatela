@@ -6,6 +6,7 @@
 - 🌱 I’m a web developper with skills in  **Symfony, PHP, SQL, Javascript, HTML/CSS, Bootstrap**
 
 - 📫 How to reach me **thibauttaglialatela@gmail.com**
+- My portfolio **https://www.portfolio-taglialatela.fr/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

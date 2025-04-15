@@ -6,7 +6,7 @@
 - 🌱 I’m a web developper with skills in  **Symfony, PHP, SQL, Javascript, HTML/CSS, Bootstrap, Tailwind CSS**
 
 - 📫 How to reach me **thibauttaglialatela@gmail.com**
-- My portfolio **https://thibauttaglialatela.github.io/taglialatela-portfolio-html/**
+- My portfolio **https://portfolio-taglialatela.fr/**
 - Test TOSA PHP result : https://www.tosa.org/FR/Index?param=dS9YTE8yZ0N2b3c5UUg0WXNuWFFZTmg3WjZPR0p1WnZRVnNxWDEra3FyVFpmWFRsSVlLa0RhcHBSdlRGTCsyVi9OS01zbUVJSWxsaUlwK1orYmpKYlE9PTo6K7g9wK40IZyEHRfuasAndA
 
 <h3 align="left">Connect with me:</h3>
